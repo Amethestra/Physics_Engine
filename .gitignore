@@ -8,7 +8,7 @@
 /*.vcxproj*
 
 # IDE/project files
-.vscode/
+.vs/
 .idea/
 *.code-workspace
 
